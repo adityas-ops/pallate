@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Mint Grotesk';
+    src: url('/fonts/mint-grotesk-font-family/MintGroteskTrial-RegularDisplay-BF64336b1cd46bb.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    /* font-display: swap; */
+  }
+
+  /* @font-fac
+   */
+
+  /* for thin font */
+@font-face {
+  font-family: 'Mint Grotesk Light';
+  src: url("/fonts/mint-grotesk-font-family/MintGroteskTrial-ThinDisplay-BF64336b1cac340.otf") format('opentype');
+  font-weight: 100;
+  font-style: normal;
+}
